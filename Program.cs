@@ -57,6 +57,7 @@ namespace product_types
 
                 productsList.Add(product);
             }
+            
             //Resume
             Console.WriteLine("PRICE TAGS: ");
                 foreach(Product prod in productsList)
