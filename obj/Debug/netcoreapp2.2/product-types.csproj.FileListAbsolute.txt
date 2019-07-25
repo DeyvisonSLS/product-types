@@ -1,0 +1,11 @@
+/Users/lais-is_5/Documents/product-types/bin/Debug/netcoreapp2.2/product-types.deps.json
+/Users/lais-is_5/Documents/product-types/bin/Debug/netcoreapp2.2/product-types.runtimeconfig.json
+/Users/lais-is_5/Documents/product-types/bin/Debug/netcoreapp2.2/product-types.runtimeconfig.dev.json
+/Users/lais-is_5/Documents/product-types/bin/Debug/netcoreapp2.2/product-types.dll
+/Users/lais-is_5/Documents/product-types/bin/Debug/netcoreapp2.2/product-types.pdb
+/Users/lais-is_5/Documents/product-types/obj/Debug/netcoreapp2.2/product-types.csprojAssemblyReference.cache
+/Users/lais-is_5/Documents/product-types/obj/Debug/netcoreapp2.2/product-types.csproj.CoreCompileInputs.cache
+/Users/lais-is_5/Documents/product-types/obj/Debug/netcoreapp2.2/product-types.AssemblyInfoInputs.cache
+/Users/lais-is_5/Documents/product-types/obj/Debug/netcoreapp2.2/product-types.AssemblyInfo.cs
+/Users/lais-is_5/Documents/product-types/obj/Debug/netcoreapp2.2/product-types.dll
+/Users/lais-is_5/Documents/product-types/obj/Debug/netcoreapp2.2/product-types.pdb
